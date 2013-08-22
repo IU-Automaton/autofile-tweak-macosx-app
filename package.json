@@ -1,0 +1,24 @@
+{
+  "name": "autofile-pack-macosx-app",
+  "version": "0.0.0",
+  "description": "Task for packing a .app with custom information",
+  "main": "autofile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "macosx",
+    "mac",
+    "osx",
+    "app",
+    "pack",
+    "packing",
+    "packaging",
+    "plist"
+  ],
+  "author": "Indigo United",
+  "license": "MIT",
+  "dependencies": {
+    "plist": "~0.4.3"
+  }
+}
