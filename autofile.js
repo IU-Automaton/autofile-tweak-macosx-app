@@ -42,12 +42,12 @@ function findKeyHolder(obj, key) {
 
 module.exports = function (task) {
     task
-    .id('autofile')
+    .id('tweak-macosx-app')
     .name('autofile')
-    .author('Task author')
-    .description('Pack an .app with custom settings. More info on the options in https://developer.apple.com/library/ios/documentation/general/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html')
+    .author('Indigo United')
+    .description('Tweak an .app with custom settings. More info on the options in https://developer.apple.com/library/ios/documentation/general/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html')
 
-    .option('app', 'The .app file you want to customize')
+    .option('app', 'The .app file you want to tweak')
     .option('CFBundleDisplayName', 'Bundle display name')
     // .option('CFBundleTypeName', '', '')
     // .option('CFBundleExecutable', 'Name of the bundle’s executable file')

@@ -1,0 +1,6 @@
+/node_modules
+/npm-debug.*
+
+/test/tmp
+/tasks/grunt-dummy.js
+/README_website.md
