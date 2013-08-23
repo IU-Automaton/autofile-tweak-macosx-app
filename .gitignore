@@ -1,5 +1,6 @@
 /node_modules
 /npm-debug.*
 
+.DS_STORE
 /test/tmp
-/tasks/grunt-dummy.js
+
