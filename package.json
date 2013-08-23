@@ -1,7 +1,7 @@
 {
-  "name": "autofile-pack-macosx-app",
+  "name": "autofile-tweak-macosx-app",
   "version": "0.0.1",
-  "description": "Task for packing a .app with custom information",
+  "description": "Task for tweaking an .app with custom information",
   "main": "autofile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
